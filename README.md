@@ -1,4 +1,4 @@
-# CDK_IAM_user
+# iam user delete and finding scirpt
 User And Email finding Script From IAM, Cognito, Appstream(find_IAM_user_cognito_appstream_username_new.py)
 
 
